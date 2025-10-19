@@ -1,0 +1,8 @@
+{
+  "name": "WiFi H4CKER",
+  "short_name": "WiFiHCK",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#0f0"
+}
